@@ -7,9 +7,10 @@ Tech Stack -> Python, Numpy, Scikit-learn
 
 It covers->
 
-i. Loading of data and segmentation of data to equally variate both types of classification
-ii. Vectorization of data to be made fit for use
-iii. Application of different ML classification algorithms
-iv. Evaluating the model with metrics
-v. Tuning the parameters using GridSearchCV
-vi. Saving the model for later use
+i. Building different classes for better handling <br>
+ii. Loading of data and segmentation of data to equally variate both types of classification <br>
+iii. Vectorization of data to be made fit for use <br>
+iv. Application of different ML classification algorithms <br>
+v. Evaluating the model with metrics <br>
+vi. Tuning the parameters using GridSearchCV <br>
+vii. Saving the model for later use <br>
